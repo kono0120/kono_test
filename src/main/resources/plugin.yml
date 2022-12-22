@@ -1,0 +1,4 @@
+name: Kono_test
+version: '${project.version}'
+main: com.github.konoa0120.kono_test.Kono_test
+api-version: 1.16
